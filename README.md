@@ -15,6 +15,6 @@ Logistic Regression, XGBoost and k-nearest neighbors are used to predict subject
 - Big five personality traits predicts political orientation correctly 66% of the time.
 - Most discriminating trait for gender is neuroticism, males have higher values of it.
 - AUC score is 63% when predicting gender.
-- Consciousness correlates .18 with age, and older subjects tend to be conservatives.
+- Conscientiousness correlates .18 with age, and older subjects tend to be conservatives.
 - RMSE score is 9 when predicting age. <br>
 \* First two modeling notes here are for logistic regression, ridge regression has been used for the last.
